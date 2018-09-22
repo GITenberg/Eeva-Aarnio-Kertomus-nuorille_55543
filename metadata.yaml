@@ -1,11 +1,16 @@
 _repo: Eeva-Aarnio-Kertomus-nuorille_55543
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hellén, Immi
     gutenberg_agent_id: '48342'
     url: http://www.gutenberg.org/2009/agents/48342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55543#Eeva-Aarnio-Kertomus-nuorille
 gutenberg_issued: '2017-09-14'
 gutenberg_type: Text
 identifiers:
